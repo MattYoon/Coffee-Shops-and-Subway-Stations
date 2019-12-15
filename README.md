@@ -3,11 +3,11 @@ Clustering to find out the optimal place to open a coffee shop near subway stati
 
 # **CLICK THE LINKS BELOW FOR NOTEBOOKS**
 ## Github won't show the Folium maps so go to the link below for notebooks
-* Subway:
-https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shop-Clustering-Seoul/blob/master/Notebook%28READ%20README%21%29/1.Subway%20Data.ipynb
-* Pricing:
-https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shop-Clustering-Seoul/blob/master/Notebook%28READ%20README%21%29/2.Pricing%20Data.ipynb
+* Station:
+https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shops-and-Subway-Stations/blob/master/Notebooks%28READ%20README%29/1.%20Station.ipynb
+* Rents:
+https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shops-and-Subway-Stations/blob/master/Notebooks%28READ%20README%29/2.%20Rents.ipynb
 * Coffee Shops:
-https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shop-Clustering-Seoul/blob/master/Notebook%28READ%20README%21%29/3.Coffee%20Shop%20Data.ipynb
+https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shops-and-Subway-Stations/blob/master/Notebooks%28READ%20README%29/3.%20Coffee%20Shop.ipynb
 * Clustering:
-https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shop-Clustering-Seoul/blob/master/Notebook%28READ%20README%21%29/4.Cluster%20Analysis.ipynb
+https://nbviewer.jupyter.org/github/MattYoon/Coffee-Shops-and-Subway-Stations/blob/master/Notebooks%28READ%20README%29/4.%20Clustering.ipynb
